@@ -8,7 +8,7 @@ public class SortUtils {
     /**
      * Bubble Sort implementation.
      *
-     * @param arr input array
+     *  arr input array
      */
     public static void bubbleSort(int[] arr) {
         boolean swapped;
@@ -62,4 +62,5 @@ public class SortUtils {
         return i + 1;
     }
 }
+
 
